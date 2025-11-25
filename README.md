@@ -23,7 +23,6 @@ Notebook bao gồm:
 ## 📁 File chính trong repo
 - **imputation_titanic.ipynb**
 - **bao_cao_imputation.docx**
-- Các hình minh họa
 
 ## 🎯 Mục tiêu
 - Hiểu từng thuật toán imputation  
