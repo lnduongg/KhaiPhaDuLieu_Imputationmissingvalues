@@ -33,4 +33,4 @@ Notebook bao gồm:
 - Python  
 - pandas, numpy  
 - scikit-learn  
-- matplotlib, seaborn
+- matplotlib
